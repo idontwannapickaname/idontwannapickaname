@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-👩🏻‍🎓 Studying Computer Science at the University of Engineering and Technology, Viet Nam<br>🍀 Currently learning about software architecture!
+👩🏻‍🎓 Studying Computer Science at the University of Engineering and Technology, Viet Nam<br>🍀 Currently learning about Data Science and AI engineering!
 
 
 ## 🌐 Socials:
